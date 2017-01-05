@@ -17,7 +17,7 @@
 
 /* Begin PBXFileReference section */
 		CE0BE94F1E1DEA13001EAE97 /* applelogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = applelogo.png; sourceTree = "<group>"; };
-		CE1E13BE1E1DDA7D0071E08D /* IOS10LocalNotificationTotorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOS10LocalNotificationTotorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CE1E13BE1E1DDA7D0071E08D /* IOS10LocalNotificationTutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOS10LocalNotificationTutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE1E13C11E1DDA7D0071E08D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE1E13C31E1DDA7D0071E08D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CE1E13C61E1DDA7D0071E08D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		CE1E13B51E1DDA7C0071E08D = {
 			isa = PBXGroup;
 			children = (
-				CE1E13C01E1DDA7D0071E08D /* IOS10LocalNotificationTotorial */,
+				CE1E13C01E1DDA7D0071E08D /* IOS10LocalNotificationTutorial */,
 				CE1E13BF1E1DDA7D0071E08D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		CE1E13BF1E1DDA7D0071E08D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CE1E13BE1E1DDA7D0071E08D /* IOS10LocalNotificationTotorial.app */,
+				CE1E13BE1E1DDA7D0071E08D /* IOS10LocalNotificationTutorial.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		CE1E13C01E1DDA7D0071E08D /* IOS10LocalNotificationTotorial */ = {
+		CE1E13C01E1DDA7D0071E08D /* IOS10LocalNotificationTutorial */ = {
 			isa = PBXGroup;
 			children = (
 				CE1E13C11E1DDA7D0071E08D /* AppDelegate.swift */,
@@ -64,15 +64,16 @@
 				CE1E13CA1E1DDA7D0071E08D /* LaunchScreen.storyboard */,
 				CE1E13CD1E1DDA7D0071E08D /* Info.plist */,
 			);
+			name = IOS10LocalNotificationTutorial;
 			path = IOS10LocalNotificationTotorial;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CE1E13BD1E1DDA7C0071E08D /* IOS10LocalNotificationTotorial */ = {
+		CE1E13BD1E1DDA7C0071E08D /* IOS10LocalNotificationTutorial */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CE1E13D01E1DDA7D0071E08D /* Build configuration list for PBXNativeTarget "IOS10LocalNotificationTotorial" */;
+			buildConfigurationList = CE1E13D01E1DDA7D0071E08D /* Build configuration list for PBXNativeTarget "IOS10LocalNotificationTutorial" */;
 			buildPhases = (
 				CE1E13BA1E1DDA7C0071E08D /* Sources */,
 				CE1E13BB1E1DDA7C0071E08D /* Frameworks */,
@@ -82,9 +83,9 @@
 			);
 			dependencies = (
 			);
-			name = IOS10LocalNotificationTotorial;
+			name = IOS10LocalNotificationTutorial;
 			productName = IOS10LocalNotificationTotorial;
-			productReference = CE1E13BE1E1DDA7D0071E08D /* IOS10LocalNotificationTotorial.app */;
+			productReference = CE1E13BE1E1DDA7D0071E08D /* IOS10LocalNotificationTutorial.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -103,7 +104,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CE1E13B91E1DDA7C0071E08D /* Build configuration list for PBXProject "IOS10LocalNotificationTotorial" */;
+			buildConfigurationList = CE1E13B91E1DDA7C0071E08D /* Build configuration list for PBXProject "IOS10LocalNotificationTutorial" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -116,7 +117,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CE1E13BD1E1DDA7C0071E08D /* IOS10LocalNotificationTotorial */,
+				CE1E13BD1E1DDA7C0071E08D /* IOS10LocalNotificationTutorial */,
 			);
 		};
 /* End PBXProject section */
@@ -265,7 +266,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = IOS10LocalNotificationTotorial/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = tk.chalypeng.IOS10LocalNotificationTotorial;
+				PRODUCT_BUNDLE_IDENTIFIER = tk.chalypeng.IOS10LocalNotificationTutorial;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -278,7 +279,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = IOS10LocalNotificationTotorial/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = tk.chalypeng.IOS10LocalNotificationTotorial;
+				PRODUCT_BUNDLE_IDENTIFIER = tk.chalypeng.IOS10LocalNotificationTutorial;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -287,7 +288,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CE1E13B91E1DDA7C0071E08D /* Build configuration list for PBXProject "IOS10LocalNotificationTotorial" */ = {
+		CE1E13B91E1DDA7C0071E08D /* Build configuration list for PBXProject "IOS10LocalNotificationTutorial" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CE1E13CE1E1DDA7D0071E08D /* Debug */,
@@ -296,7 +297,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CE1E13D01E1DDA7D0071E08D /* Build configuration list for PBXNativeTarget "IOS10LocalNotificationTotorial" */ = {
+		CE1E13D01E1DDA7D0071E08D /* Build configuration list for PBXNativeTarget "IOS10LocalNotificationTutorial" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CE1E13D11E1DDA7D0071E08D /* Debug */,

@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CE1E13BD1E1DDA7C0071E08D"
-               BuildableName = "IOS10LocalNotificationTotorial.app"
-               BlueprintName = "IOS10LocalNotificationTotorial"
-               ReferencedContainer = "container:IOS10LocalNotificationTotorial.xcodeproj">
+               BuildableName = "IOS10LocalNotificationTutorial.app"
+               BlueprintName = "IOS10LocalNotificationTutorial"
+               ReferencedContainer = "container:IOS10LocalNotificationTutorial.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CE1E13BD1E1DDA7C0071E08D"
-            BuildableName = "IOS10LocalNotificationTotorial.app"
-            BlueprintName = "IOS10LocalNotificationTotorial"
-            ReferencedContainer = "container:IOS10LocalNotificationTotorial.xcodeproj">
+            BuildableName = "IOS10LocalNotificationTutorial.app"
+            BlueprintName = "IOS10LocalNotificationTutorial"
+            ReferencedContainer = "container:IOS10LocalNotificationTutorial.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CE1E13BD1E1DDA7C0071E08D"
-            BuildableName = "IOS10LocalNotificationTotorial.app"
-            BlueprintName = "IOS10LocalNotificationTotorial"
-            ReferencedContainer = "container:IOS10LocalNotificationTotorial.xcodeproj">
+            BuildableName = "IOS10LocalNotificationTutorial.app"
+            BlueprintName = "IOS10LocalNotificationTutorial"
+            ReferencedContainer = "container:IOS10LocalNotificationTutorial.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CE1E13BD1E1DDA7C0071E08D"
-            BuildableName = "IOS10LocalNotificationTotorial.app"
-            BlueprintName = "IOS10LocalNotificationTotorial"
-            ReferencedContainer = "container:IOS10LocalNotificationTotorial.xcodeproj">
+            BuildableName = "IOS10LocalNotificationTutorial.app"
+            BlueprintName = "IOS10LocalNotificationTutorial"
+            ReferencedContainer = "container:IOS10LocalNotificationTutorial.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
